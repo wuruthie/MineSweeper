@@ -17,7 +17,9 @@
 
     <ToggleButton
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="Flag"
+        android:id="@+id/btnFlag"/>
 
     <hu.ait.android.minesweeperfinal.view.MineSweeperView
         android:id="@+id/gameField"

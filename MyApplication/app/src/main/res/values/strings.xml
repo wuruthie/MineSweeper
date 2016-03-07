@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MineSweeperFinal</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="win_statement">You\'ve Won!</string>
+    <string name="bomb">B</string>
+    <string name="flag">F</string>
 </resources>
